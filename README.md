@@ -84,7 +84,7 @@ Empyrean is licensed under the <a href="https://mit-license.org/">MIT License</a
 
 ## Errors?
 
--   Make an [issue](https://github.com/addi00000/empyrean/issues)
--   Join the [Discord](https://discord.gg/GudVbfd9ZU)
+-   Make an [issue](https://github.com/BestGamersH/empyrean/issues)
+-   Join the [Discord](https://discord.gg/friendsmp)
 
 <img src="img/footer.png">
